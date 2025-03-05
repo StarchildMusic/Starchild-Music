@@ -1,0 +1,33 @@
+
+
+body {
+	background-color:#0F1656;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+H1 {
+	color: #8626a1;
+	text-align: center;
+}
+
+
+P {
+	color: white;
+	font-family: garamond;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+Img {
+	height: 10%;
+	width: 10%;
+}
+
